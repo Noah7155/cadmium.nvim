@@ -1,4 +1,4 @@
 lua << EOF
-local doom-rouge = require("doom-rouge")
-doom-rouge.setup({})
+local doom_rouge = require("doom-rouge")
+doom_rouge.setup({})
 EOF
