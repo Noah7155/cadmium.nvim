@@ -2,4 +2,4 @@
 
 ## A port of the VSC*de theme https://github.com/josefaidt/rouge-theme
 
-(file://Screenshot_20231114_223210.png)
+![image](Screenshot_20231114_223210.png)
