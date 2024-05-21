@@ -1,4 +1,4 @@
 lua << EOF
 local cadmium = require("cadmium")
-doom_rouge.setup({})
+cadmium.setup({})
 EOF
