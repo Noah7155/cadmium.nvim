@@ -1,5 +1,5 @@
 
-local c = require('doom-rouge.palette')
+local c = require('cadmium.palette')
 
 local hl = vim.api.nvim_set_hl
 local theme = {}

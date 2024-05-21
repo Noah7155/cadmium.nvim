@@ -1,5 +1,5 @@
 local M = {}
-local theme = require('doom-rouge.theme')
+local theme = require('cadmium.theme')
 
 M.setup = function()
   vim.cmd('hi clear')
@@ -10,7 +10,7 @@ M.setup = function()
   end
 
   vim.o.termguicolors = true
-  vim.g.colors_name = 'doom-rouge'
+  vim.g.colors_name = 'cadmium'
 
   theme.set_highlights()
 end
